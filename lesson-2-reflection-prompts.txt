@@ -22,6 +22,7 @@ involved in it.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Unify the modifications of two different branches in their last commit. It creates a new commit with the unification of the other two.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
