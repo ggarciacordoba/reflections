@@ -26,3 +26,5 @@ Unify the modifications of two different branches in their last commit. It creat
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic merging helps users to add the different parts of code that don't generate conflict. So it adds up all the new things 
+that don't bother each other
