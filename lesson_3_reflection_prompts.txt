@@ -7,3 +7,10 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
 Because there may be changes in your local repository that you don't want to overlap. 
 If you pull automatically you will overwrite uncommited changes.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+Forks is a clone action that occurs in the GitHub servers. You will clone if you have 
+access and want to modified that repository. If you don't have access or want to work 
+on a separate clone you will fork it. They all work on branches. You will create a new 
+branch when you want to modify something different from the current active branch.
