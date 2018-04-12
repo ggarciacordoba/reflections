@@ -18,3 +18,7 @@ branch when you want to modify something different from the current active branc
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This is useful to compare the possible conflicts there might be between the remote repository
 vs the local one
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be 
+harder?
+With SVN that was a version tracker. It was easier to apply changes, but very difficult to sync them.
